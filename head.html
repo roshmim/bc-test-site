@@ -24,9 +24,11 @@
 
 
 <script src="https://cdn1.adoberesources.net/alloy/2.32.0/alloy.min.js"></script>
+  <script src="https://experience.adobe.net/solutions/experience-platform-brand-concierge-web-agent/static-assets/main.js"></script>
 
 
 <script nonce="aem">
+  console.log("My pretty stuff");
     alloy("configure", {
         defaultConsent: "in",
         edgeDomain: "edge.adobedc.net",
@@ -39,19 +41,8 @@
         prehidingStyle: ".personalization-container { opacity: 0 !important }",
     });
 
-window["alloy"]("sendEvent", {
-    conversation: {
-        fetchConversationalExperience: true
-    }
-}).then(result => {
-    console.log("Conversation experience fetched", result);
-    window["alloy"]("bootstrapConversationalExperience", {
-        selector: "#brand-concierge-mount",
-        src: "/scripts/brandconciergemain.js",
-        stylingConfigurations: window.styleConfiguration,
-        stickySession: true // create a sticky session cookie with expiration
-    })
-});
+
+alloy("sendEvent", {});
 </script>
 
 
