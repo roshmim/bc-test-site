@@ -6,20 +6,23 @@
 
 
 <script nonce="aem" src="/scripts/styleconfigurations.js"></script>
-<script nonce="aem">
-  !function (n, o) {
-    o.forEach(function (o) {
-      n[o] || ((n.__alloyNS = n.__alloyNS ||
-        []).push(o), n[o] = function () {
-          var u = arguments; return new Promise(
-            function (i, l) { n[o].q.push([i, l, u]) })
-        }, n[o].q = [])
-    })
-  }
-    (window, ["alloy"]);
-  </script>
 
-  <script src="https://cdn1.adoberesources.net/alloy/2.32.0/alloy.min.js"></script>
+<script nonce="aem">
+    !function (n, o) {
+      o.forEach(function (o) {
+        n[o] || ((n.__alloyNS = n.__alloyNS ||
+          []).push(o), n[o] = function () {
+            var u = arguments; return new Promise(
+              function (i, l) { n[o].q.push([i, l, u]) })
+          }, n[o].q = [])
+      })
+    }
+      (window, ["alloy"]);
+    </script>
+
+
+<script nonce="aem" src="/scripts/alloy.js"></script>
+
 <script nonce="aem">
     alloy("configure", {
         defaultConsent: "in",
@@ -30,9 +33,6 @@
         debugEnabled: true,
         idMigrationEnabled: false,
         thirdPartyCookiesEnabled: false,
-        conversation: {
-        stickyConversationSession: true
-        },
         prehidingStyle: ".personalization-container { opacity: 0 !important }",
     });
 
