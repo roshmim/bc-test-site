@@ -1,31 +1,25 @@
-<meta
-  http-equiv="Content-Security-Policy"
-  content="script-src 'nonce-aem' http: https:; base-uri 'self'; object-src 'none';"
-  move-to-http-header="true"
->
+
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 <script nonce="aem" src="/scripts/aem.js" type="module"></script>
 <script nonce="aem" src="/scripts/scripts.js" type="module"></script>
+<link rel="stylesheet" href="/styles/styles.css"/>
+
 
 <script nonce="aem" src="/scripts/styleconfigurations.js"></script>
-
 <script nonce="aem">
-    !function (n, o) {
-      o.forEach(function (o) {
-        n[o] || ((n.__alloyNS = n.__alloyNS ||
-          []).push(o), n[o] = function () {
-            var u = arguments; return new Promise(
-              function (i, l) { n[o].q.push([i, l, u]) })
-          }, n[o].q = [])
-      })
-    }
-      (window, ["alloy"]);
-    </script>
+  !function (n, o) {
+    o.forEach(function (o) {
+      n[o] || ((n.__alloyNS = n.__alloyNS ||
+        []).push(o), n[o] = function () {
+          var u = arguments; return new Promise(
+            function (i, l) { n[o].q.push([i, l, u]) })
+        }, n[o].q = [])
+    })
+  }
+    (window, ["alloy"]);
+  </script>
 
-<script src="https://cdn1.adoberesources.net/alloy/2.32.0/alloy.min.js"></script>
-  <script src="https://experience.adobe.net/solutions/experience-platform-brand-concierge-web-agent/static-assets/main.js"></script>
-
-
+  <script src="https://cdn1.adoberesources.net/alloy/2.32.0/alloy.min.js"></script>
 <script nonce="aem">
     alloy("configure", {
         defaultConsent: "in",
@@ -36,6 +30,9 @@
         debugEnabled: true,
         idMigrationEnabled: false,
         thirdPartyCookiesEnabled: false,
+        conversation: {
+        stickyConversationSession: true
+        },
         prehidingStyle: ".personalization-container { opacity: 0 !important }",
     });
 
@@ -53,7 +50,3 @@ window["alloy"]("sendEvent", {
     })
 });
 </script>
-
-
-
-<link rel="stylesheet" href="/styles/styles.css"/>
