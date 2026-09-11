@@ -1,0 +1,290 @@
+{
+  "templates": [
+    {
+      "name": "content-page",
+      "urls": [
+        "http://www.anz.com/about-us/corporate-sustainability/ad/",
+        "http://www.anz.com/about-us/corporate-sustainability/ad/2015-awaygame/",
+        "http://www.anz.com/about-us/corporate-sustainability/community/giving/",
+        "http://www.anz.com/about-us/corporate-sustainability/customers/financial-hardship/",
+        "http://www.anz.com/about-us/corporate-sustainability/employees/our-values/",
+        "http://www.anz.com/about-us/corporate-sustainability/forms/",
+        "http://www.anz.com/about-us/corporate-sustainability/governance-risk/code-conduct/",
+        "http://www.anz.com/about-us/corporate-sustainability/microsite/anz-financial-hardship/apply-online/",
+        "http://www.anz.com/about-us/corporate-sustainability/microsite/financial-hardship/faqs/",
+        "http://www.anz.com/about-us/our-company/ad/",
+        "http://www.anz.com/auxiliary/contact-us/insurance/",
+        "http://www.anz.com/auxiliary/help/help/how-to/report-card/",
+        "http://www.anz.com/corporate/ad/trade-fits/",
+        "http://www.anz.com/corporate/banking-business/businesses/",
+        "http://www.anz.com/corporate/banking-business/corporates/",
+        "http://www.anz.com/corporate/banking-business/corporates/healthcare/",
+        "http://www.anz.com/corporate/banking-business/large-corporates/property/",
+        "http://www.anz.com/corporate/publications-guides-studies/client-publications/",
+        "http://www.anz.com/corporate/tools-calculators-forms/fees-taxes-terms/",
+        "http://www.anz.com/personal/private-bank/forms/",
+        "https://www.anz.com.au/about-us/esg/housing/",
+        "https://www.anz.com.au/about-us/first-nations/strategy/",
+        "https://www.anz.com.au/business/accounts/savings-accounts/",
+        "https://www.anz.com.au/business/accounts/transaction-accounts/business-extra/",
+        "https://www.anz.com.au/business/business-hub/grow-business/grow/",
+        "https://www.anz.com.au/business/business-hub/grow-business/grow/small-business-ai/",
+        "https://www.anz.com.au/business/business-hub/grow-business/grow/small-business-market-research/",
+        "https://www.anz.com.au/business/business-hub/resources/articles/",
+        "https://www.anz.com.au/business/business-hub/resources/customer-stories/will-bowden/",
+        "https://www.anz.com.au/business/business-hub/starting-business/start/",
+        "https://www.anz.com.au/business/business-hub/tools/",
+        "https://www.anz.com.au/business/credit-cards/low-rate/",
+        "https://www.anz.com.au/business/industries/health/",
+        "https://www.anz.com.au/business/international-foreign-exchange/foreign-exchange/",
+        "https://www.anz.com.au/business/loans-finance/business-loan-calculator/",
+        "https://www.anz.com.au/business/loans-finance/vehicle-equipment-finance/hire-purchase/",
+        "https://www.anz.com.au/careers/",
+        "https://www.anz.com.au/careers/life-at-anz/benefits/",
+        "https://www.anz.com.au/careers/our-teams/design-innovation/",
+        "https://www.anz.com.au/careers/our-teams/group-capability-centre/manila/",
+        "https://www.anz.com.au/careers/our-teams/risk/",
+        "https://www.anz.com.au/learn/cheque-changes/business/",
+        "https://www.anz.com.au/locations/",
+        "https://www.anz.com.au/personal/adviser-services/adviser-guide/application-rework-and-discrepancies/",
+        "https://www.anz.com.au/personal/bank-accounts/calculators-tools/",
+        "https://www.anz.com.au/personal/bank-accounts/everyday-accounts/access-basic/",
+        "https://www.anz.com.au/personal/bank-accounts/manage-my-accounts/faqs/",
+        "https://www.anz.com.au/personal/bank-accounts/savings-accounts/online-saver/",
+        "https://www.anz.com.au/personal/bank-accounts/switch/",
+        "https://www.anz.com.au/personal/bank-accounts/term-deposits/advance-notice/",
+        "https://www.anz.com.au/personal/bank-accounts/tips-and-guides/budget/",
+        "https://www.anz.com.au/personal/credit-cards/manage-my-card/forms-documents/",
+        "https://www.anz.com.au/personal/credit-cards/offers/",
+        "https://www.anz.com.au/personal/financial-wellbeing/find-my-claims/tasmania/",
+        "https://www.anz.com.au/personal/financial-wellbeing/guides/videos/",
+        "https://www.anz.com.au/personal/financial-wellbeing/hub/articles/plan-dont-panic/",
+        "https://www.anz.com.au/personal/financial-wellbeing/hub/videos/build-ultimate-budget/",
+        "https://www.anz.com.au/personal/financial-wellbeing/score/",
+        "https://www.anz.com.au/personal/home-loans/calculators-tools/borrowing-power-calculator/",
+        "https://www.anz.com.au/personal/home-loans/offers/",
+        "https://www.anz.com.au/personal/personal-loans/fixed-rate/",
+        "https://www.anz.com.au/personal/private-banking/clients/",
+        "https://www.anz.com.au/personal/superannuation/member-centre/",
+        "https://www.anz.com.au/private-banking/insights/philanthropy/",
+        "https://www.anz.com.au/security/",
+        "https://www.anz.com.au/security/business/cyber-protection/software/",
+        "https://www.anz.com.au/security/how-we-protect-you/atm/",
+        "https://www.anz.com.au/security/protect-devices/malware/",
+        "https://www.anz.com.au/security/protect-your-family/kids-cyber-safety/",
+        "https://www.anz.com.au/security/protect-yourself/online/",
+        "https://www.anz.com.au/security/protect-yourself/protect-virtual-valuables/suspicious-messages/",
+        "https://www.anz.com.au/security/types-of-scams/phishing/",
+        "https://www.anz.com.au/support/",
+        "https://www.anz.com.au/support/business/internet-banking/transfers/",
+        "https://www.anz.com.au/support/contact-us/insurance/",
+        "https://www.anz.com.au/support/loans/manage-your-home-loan/",
+        "https://www.anz.com.au/support/loans/manage-your-home-loan/redraw/",
+        "https://www.anz.com.au/support/online-banking/anz-app/",
+        "https://www.anz.com.au/support/services/gambling/",
+        "https://www.anz.com.au/ways-to-bank/mobile-banking-apps/anz-app/faq/"
+      ],
+      "coverageGaps": [],
+      "description": "General content/product page: intro banner then stacked accordion, carousel, table and occasional form sections. The site workhorse template",
+      "blocks": []
+    },
+    {
+      "name": "contact-page",
+      "urls": [
+        "http://www.anz.com/about-us/corporate-sustainability/contact-us/",
+        "http://www.anz.com/personal/ad/savings/"
+      ],
+      "coverageGaps": [],
+      "description": "Contact page combining a promotional carousel with an inline contact form",
+      "blocks": []
+    },
+    {
+      "name": "subsection-hub",
+      "urls": [
+        "http://www.anz.com/about-us/shareholders/ad/",
+        "http://www.anz.com/about-us/shareholders/ny-branch/",
+        "http://www.anz.com/about-us/shareholders/privacy-information/",
+        "https://www.anz.com.au/about-us/"
+      ],
+      "coverageGaps": [],
+      "description": "Sub-section hub page built primarily from carousel/feature banners linking to child pages",
+      "blocks": []
+    },
+    {
+      "name": "homepage",
+      "urls": [
+        "https://www.anz.com.au/"
+      ],
+      "coverageGaps": [],
+      "description": "Top-level brand landing with full-width hero carousel and accordion/feature sections",
+      "blocks": []
+    },
+    {
+      "name": "division-landing",
+      "urls": [
+        "https://www.anz.com.au/business/"
+      ],
+      "coverageGaps": [],
+      "description": "Division landing page (e.g. Business) with hero carousel and stacked promotional/accordion sections",
+      "blocks": []
+    },
+    {
+      "name": "comparison-table-page",
+      "urls": [
+        "https://www.anz.com.au/business/credit-cards/compare-cards/"
+      ],
+      "coverageGaps": [],
+      "description": "Product comparison page dominated by a large feature/price comparison table",
+      "blocks": []
+    },
+    {
+      "name": "enquiry-form-page",
+      "urls": [
+        "https://www.anz.com.au/business/loans-finance/enquiry/"
+      ],
+      "coverageGaps": [],
+      "description": "Lead/enquiry page centered on a multi-field form",
+      "blocks": []
+    },
+    {
+      "name": "careers-landing",
+      "urls": [
+        "https://www.anz.com.au/careers/career-programs/return-to-work/",
+        "https://www.anz.com.au/promo/broker/become-accredited/"
+      ],
+      "coverageGaps": [],
+      "description": "Careers/promo landing with hero, video, carousel and accordion FAQ sections",
+      "blocks": []
+    },
+    {
+      "name": "section-landing",
+      "urls": [
+        "http://www.anz.com/corporate/",
+        "https://www.anz.com.au/personal/"
+      ],
+      "coverageGaps": [],
+      "description": "Major section landing with hero carousel plus accordion content blocks",
+      "blocks": []
+    },
+    {
+      "name": "forms-index-page",
+      "urls": [
+        "https://www.anz.com.au/personal/adviser-services/forms/"
+      ],
+      "coverageGaps": [],
+      "description": "Forms/documents index page with carousel intro and accordion list of downloadable items",
+      "blocks": []
+    },
+    {
+      "name": "education-article",
+      "urls": [
+        "https://www.anz.com.au/personal/credit-cards/credit-card-education/due-dates/",
+        "https://www.anz.com.au/support/business/bank-feeds/"
+      ],
+      "coverageGaps": [],
+      "description": "Educational article/guide page with intro carousel and multiple accordion explainer sections",
+      "blocks": []
+    },
+    {
+      "name": "guides-hub",
+      "urls": [
+        "https://www.anz.com.au/personal/travel-international/guides/"
+      ],
+      "coverageGaps": [],
+      "description": "Guides hub page with carousel intro and accordion navigation into guide articles",
+      "blocks": []
+    },
+    {
+      "name": "plus-app-landing",
+      "urls": [
+        "https://www.anz.com.au/plus/"
+      ],
+      "coverageGaps": [],
+      "description": "ANZ Plus app landing (separate design system) with hero, card grid and custom app components",
+      "blocks": []
+    },
+    {
+      "name": "plus-product-page",
+      "urls": [
+        "https://www.anz.com.au/plus/accounts/save/"
+      ],
+      "coverageGaps": [],
+      "description": "ANZ Plus product page with hero and card-based feature layout",
+      "blocks": []
+    },
+    {
+      "name": "plus-onboarding-page",
+      "urls": [
+        "https://www.anz.com.au/plus/anzapp/ntb/"
+      ],
+      "coverageGaps": [],
+      "description": "ANZ Plus onboarding/new-to-bank page built from hero and stacked card modules",
+      "blocks": []
+    },
+    {
+      "name": "plus-benefits-page",
+      "urls": [
+        "https://www.anz.com.au/plus/benefits/add-ons/"
+      ],
+      "coverageGaps": [],
+      "description": "ANZ Plus benefits page with hero, video and accordion/card add-on modules",
+      "blocks": []
+    },
+    {
+      "name": "plus-columns-page",
+      "urls": [
+        "https://www.anz.com.au/plus/digital-home-loans/explore/"
+      ],
+      "coverageGaps": [],
+      "description": "ANZ Plus explainer page using a multi-column layout module",
+      "blocks": []
+    },
+    {
+      "name": "error-page",
+      "urls": [
+        "https://www.anz.com.au/plus/errors/404/"
+      ],
+      "coverageGaps": [],
+      "description": "Minimal error/404 page with a single hero message block",
+      "blocks": []
+    },
+    {
+      "name": "policy-page",
+      "urls": [
+        "http://www.anz.com/auxiliary/help/help/website-security-privacy/privacy/",
+        "https://www.anz.com.au/privacy/centre/open-banking-data-sharing/app-internet-banking-help/",
+        "https://www.anz.com.au/privacy/centre/policy/"
+      ],
+      "coverageGaps": [],
+      "description": "Legal/privacy policy page with carousel intro and long accordion-structured policy content",
+      "blocks": []
+    },
+    {
+      "name": "legal-terms-page",
+      "urls": [
+        "https://www.anz.com.au/support/legal/rates-fees-terms/fees-terms-conditions/"
+      ],
+      "coverageGaps": [],
+      "description": "Legal terms/rates-fees page with a hero header and long-form legal body copy",
+      "blocks": []
+    },
+    {
+      "name": "legal-notice-page",
+      "urls": [
+        "https://www.anz.com.au/support/legal/refund/"
+      ],
+      "coverageGaps": [],
+      "description": "Short legal notice page with a single hero header and body text",
+      "blocks": []
+    },
+    {
+      "name": "application-microsite",
+      "urls": [
+        "http://www.anz.com/personal/ad/mobile-apply-online/low-fee-credit-cards/"
+      ],
+      "coverageGaps": [],
+      "description": "Standalone apply-online microsite page with custom application layout",
+      "blocks": []
+    }
+  ]
+}

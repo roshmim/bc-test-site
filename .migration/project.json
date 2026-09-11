@@ -1,7 +1,11 @@
 {
-  "previewOrg": "roshmim",
-  "previewSite": "bc-test-site",
-  "libraryUrl": "https://github.com/roshmim/aem-boilerplate",
   "type": "da",
-  "contentHostUrl": "https://content.da.live/roshmim/bc-test-site/"
+  "sites": {
+    "bc-test-site": {
+      "libraryUrl": "https://github.com/roshmim/aem-boilerplate",
+      "previewOrg": "roshmim",
+      "previewSite": "bc-test-site",
+      "contentHostUrl": "https://content.da.live/roshmim/bc-test-site/"
+    }
+  }
 }
